@@ -1,0 +1,594 @@
+@charset "utf-8";
+	.image14
+{
+	background-image : url(image14.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image4
+{
+	background-image : url(image4.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	opacity : 0.1;
+	filter: alpha(opacity=10) progid:DXImageTransform.Microsoft.Alpha(opacity=10) ;
+}
+.image8
+{
+	background-image : url(image8.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image10
+{
+	background-image : url(image10.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image5
+{
+	background-image : url(image5.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image7
+{
+	background-image : url(image7.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image6
+{
+	background-image : url(image6.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image16
+{
+	background-image : url(image16.png);
+	background-repeat : no-repeat;
+}
+.image2
+{
+	background-image : url(image2.png);
+	background-repeat : no-repeat;
+	opacity : 0.03;
+	filter: alpha(opacity=3) progid:DXImageTransform.Microsoft.Alpha(opacity=3) ;
+}
+.image12
+{
+	background-image : url(image12.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image9
+{
+	background-image : url(image9.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image11
+{
+	background-image : url(image11.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image13
+{
+	background-image : url(image13.png);
+	background-repeat : no-repeat;
+	opacity : 0.13;
+	filter: alpha(opacity=13) progid:DXImageTransform.Microsoft.Alpha(opacity=13) ;
+}
+.image15
+{
+	background-image : url(image15.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.image3
+{
+	background-image : url(image3.png);
+	background-repeat : no-repeat;
+	opacity : 0.25;
+	filter: alpha(opacity=25) progid:DXImageTransform.Microsoft.Alpha(opacity=25) ;
+}
+.st0
+{
+	background : #B42C12;
+	background : rgba(180, 44, 18, 1);
+}
+.st1
+{
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+}
+.NormalCharacterStyle46
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B42C12;
+	color : rgb(180, 44, 18);
+}
+.NormalCharacterStyle47
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle48
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle49
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle50
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle39
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle41
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle40
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B42C12;
+	color : rgb(180, 44, 18);
+}
+.NormalCharacterStyle
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle37
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B42C12;
+	color : rgb(180, 44, 18);
+}
+.NormalCharacterStyle43
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle42
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle38
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B42C12;
+	color : rgb(180, 44, 18);
+}
+.NormalCharacterStyle11
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle10
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle12
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle9
+{
+	font-family : Myriad Pro;
+	font-size : 20px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle5
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #EB9A6F;
+	color : rgb(235, 154, 111);
+}
+.NormalCharacterStyle1
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle3
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle7
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DA6849;
+	color : rgb(218, 104, 73);
+}
+.NormalCharacterStyle2
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle16
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle15
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle14
+{
+	font-family : Cooper Std;
+	font-size : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle4
+{
+	font-family : Cooper Std;
+	font-size : 18px;
+	line-height : 25px;
+	color : #EB9A6F;
+	color : rgb(235, 154, 111);
+}
+.NormalCharacterStyle20
+{
+	font-family : Myriad Pro;
+	font-size : 20px;
+	color : #DD6C4C;
+	color : rgb(221, 108, 76);
+}
+.NormalCharacterStyle21
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DD6C4C;
+	color : rgb(221, 108, 76);
+}
+.NormalCharacterStyle19
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DD6C4C;
+	color : rgb(221, 108, 76);
+}
+.NormalCharacterStyle17
+{
+	font-family : Myriad Pro;
+	font-size : 20px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle18
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle25
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle23
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 10px;
+	line-height : 11px;
+	letter-spacing : -0.47px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle24
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle22
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DD6C4C;
+	color : rgb(221, 108, 76);
+}
+.NormalCharacterStyle29
+{
+	font-family : Myriad Pro;
+	font-size : 20px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle28
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 10px;
+	line-height : 11px;
+	letter-spacing : -0.47px;
+	color : #BD381F;
+	color : rgb(189, 56, 31);
+}
+.NormalCharacterStyle27
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 10px;
+	line-height : 11px;
+	letter-spacing : -0.47px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle26
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B62E14;
+	color : rgb(182, 46, 20);
+}
+.NormalCharacterStyle32
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle31
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle30
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	color : #14546D;
+	color : rgb(20, 84, 109);
+}
+.NormalCharacterStyle34
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #DE6E4D;
+	color : rgb(222, 110, 77);
+}
+.NormalCharacterStyle35
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #DE6E4D;
+	color : rgb(222, 110, 77);
+}
+.NormalCharacterStyle33
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle44
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle36
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #B42C12;
+	color : rgb(180, 44, 18);
+}
+.NormalCharacterStyle8
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DA6849;
+	color : rgb(218, 104, 73);
+}
+.NormalCharacterStyle6
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 22px;
+	line-height : 25px;
+	color : #DA6849;
+	color : rgb(218, 104, 73);
+}
+.NormalCharacterStyle45
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 12px;
+	line-height : 11px;
+	letter-spacing : -0.95px;
+	color : #F2E1C7;
+	color : rgb(242, 225, 199);
+}
+.NormalCharacterStyle13
+{
+	font-family : Myriad Pro;
+	font-size : 20px;
+	color : #EEB486;
+	color : rgb(238, 180, 134);
+}
+.NormalCharacterStyle51
+{
+	font-family : Cooper Std;
+	font-style : italic;
+	font-size : 50px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
