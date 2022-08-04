@@ -6,19 +6,29 @@
     height: 400px;
     text-align: center;
     cursor: crosshair;
-    align-items: center
+    
     
     }
 
+
     body {
-        background-color: aquamarine;
+        background-color: #f2d00f;
+        
         font-family: 'Roboto', sans-serif;
         cursor: crosshair;
         text-align: center;
 
     }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       
+      }
 
     #my-Name {
+        font-family: 'Oxygen', sans-serif;
+        
         text-align: center;
         cursor: crosshair;
     }
