@@ -1,7 +1,7 @@
 #styledimg {background-image: url(/images/IMG_8279.img);
     background-repeat: no-repeat;
     border-radius: 8px;
-    border: 4px solid #000;
+    border: 4px solid #14546D;
     width: 300px;
     height: 400px;
     text-align: center;
@@ -14,7 +14,7 @@
     body {
         background-color: #f2d00f;
         
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Oxygen', sans-serif;
         cursor: crosshair;
         text-align: center;
 
